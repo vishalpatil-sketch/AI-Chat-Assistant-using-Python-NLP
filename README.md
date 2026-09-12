@@ -12,5 +12,4 @@ An end-to-end NLP-powered AI Chat Assistant featuring text preprocessing, intent
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<vishalpatil-sketch>/AI-Chat-Assistant-NLP.git
-   cd AI-Chat-Assistant-NLP
+   git clone [https://github.com/vishalpatil-sketch/AI-Chat-Assistant-using-Python-NLP/blob
